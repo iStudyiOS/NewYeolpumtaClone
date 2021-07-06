@@ -1,0 +1,6 @@
+framework module Pods_NewYeolpumtaClone {
+  umbrella header "Pods-NewYeolpumtaClone-umbrella.h"
+
+  export *
+  module * { export * }
+}
